@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    padding-top: 3rem; /* afastar do topo da tela */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.App h1 {
+    margin-bottom: 2rem;
+}
